@@ -1,4 +1,4 @@
-name: mocki
+name: mocki1fake
 port: 3000
 endpoints:
 - path: /fake
